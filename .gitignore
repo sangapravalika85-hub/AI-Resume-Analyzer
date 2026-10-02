@@ -1,0 +1,10 @@
+backend/.venv/
+frontend/node_modules/
+__pycache__/
+*.pyc
+.env
+*.db
+backend/uploads/
+Microsoft/
+uploads/
+frontend/dist/
